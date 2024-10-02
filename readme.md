@@ -4,6 +4,7 @@
 
 ### Comandos no terminal Unix ou Git Bash
 - listar diretório: `ls`  
+- listar diretório + ocultos: `ls -a`  
 - entrar em diretório: `cd`  
 - caminho do diretório atual: `pwd`  
 - gerar chave ssh: `ssh-keygen -C "marciosergioliveira60@gmail.com"`  
